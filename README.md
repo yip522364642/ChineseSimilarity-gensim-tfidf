@@ -12,3 +12,7 @@
 7.创建索引<br />
 8.相似度计算并返回相似度最大的文本<br />
 """<br />
+<br />
+可直接运行ChineseSimilartyCaculation.py<br />
+stopwords.txt为中文停用词表<br />
+
